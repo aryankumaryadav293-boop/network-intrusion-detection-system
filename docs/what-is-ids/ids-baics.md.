@@ -1,0 +1,20 @@
+#Before proceeding with what is an ids?
+##learn what is an intruder
+
+###Intruder
+An intruder is an unauthorized person who is trying to break into your network without your perimission ,without your knowldege with a criminal/
+mischivieous mindset and actions performed by such user is known as intrusion
+###Types of Intruders
+There are tow types of intruders 
+Outside intruders(Masquerader)-- intruders without any authorisation of the system trying to get into the system are called out outside intruders
+.These try to steal or get the neccessary credentials that is required to get into the system.
+They can use various attacks like phising,malware etc.But can be detected by firewall
+
+Inside intruders(Misfeasor)-- intruders which are legitimate and have partial authorisation of the system because they are the part of the system 
+or lets say authorisation of some parts but thye try to misues their privliges to exploit,steal or sell the data.These are harder to detect or 
+or catch and are more dangerous than the outside intruders or misquereaders
+
+##IDS(INTRUSION DETECTION SYSTEM)
+A ids detects the chages over network and look for so unauthoriused work going on. It works in the background and whenever it detects any changes
+it informs the system administrator or network adminitrator.It is software that checks a network or system for malicious activities or policy 
+violations.

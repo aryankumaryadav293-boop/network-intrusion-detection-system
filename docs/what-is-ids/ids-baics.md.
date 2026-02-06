@@ -5,7 +5,7 @@
 An intruder is an unauthorized person who is trying to break into your network without your perimission ,without your knowldege with a criminal/
 mischivieous mindset and actions performed by such user is known as intrusion
 ###Types of Intruders
-There are tow types of intruders 
+There are two types of intruders 
 Outside intruders(Masquerader)-- intruders without any authorisation of the system trying to get into the system are called out outside intruders
 .These try to steal or get the neccessary credentials that is required to get into the system.
 They can use various attacks like phising,malware etc.But can be detected by firewall

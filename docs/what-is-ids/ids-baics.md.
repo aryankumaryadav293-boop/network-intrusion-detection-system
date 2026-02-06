@@ -11,7 +11,7 @@ Outside intruders(Masquerader)-- intruders without any authorisation of the syst
 They can use various attacks like phising,malware etc.But can be detected by firewall
 
 Inside intruders(Misfeasor)-- intruders which are legitimate and have partial authorisation of the system because they are the part of the system 
-or lets say authorisation of some parts but thye try to misues their privliges to exploit,steal or sell the data.These are harder to detect or 
+or lets say authorisation of some parts but they try to misues their privliges to exploit,steal or sell the data.These are harder to detect or 
 or catch and are more dangerous than the outside intruders or misquereaders
 
 ##IDS(INTRUSION DETECTION SYSTEM)
